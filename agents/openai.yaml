@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Reading"
+  short_description: "Understand papers through overviews and focused close reading"
+  default_prompt: "Use $paper-reading to help me understand this paper: explain its central problem, concrete originality and relevant precedents, core approach, and main conclusions."
